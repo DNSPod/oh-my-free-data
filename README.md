@@ -127,7 +127,7 @@
 
 #### 开放API
 - [DNSPod 开放 API](https://www.dnspod.cn/docs/index.html)
-- 我们一直在维护着这份 API，希望她更安全、更便捷、更开箱即用，当然，我们也希望看到更多基于 DNSPod API 打造的开源程序问世。[这里](https://support.dnspod.cn/support/api) 有一些官网和第三方的程序、Demo，如果你有什么好看好玩的项目，欢迎联系我们～
+- 我们一直在维护着这份 API，希望她更安全、更便捷、更开箱即用，当然，我们也希望看到更多基于 DNSPod API 打造的开源程序问世。[这里](https://support.dnspod.cn/Support/api) 有一些官网和第三方的程序、Demo，如果你有什么好看好玩的项目，欢迎联系我们～
 
 
 #### 最后
