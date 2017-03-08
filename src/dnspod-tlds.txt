@@ -2073,6 +2073,7 @@ stc
 stcgroup
 stockholm
 storage
+store
 store.co
 store.ro
 store.st
